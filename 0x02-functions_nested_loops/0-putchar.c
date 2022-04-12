@@ -1,9 +1,9 @@
-#include <main.h>
+#include "main.h"
 
 /**
  * main - Print the word "_putchar"
  *
- * Return: Always o (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
