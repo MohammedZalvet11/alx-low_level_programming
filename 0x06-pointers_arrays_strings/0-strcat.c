@@ -1,11 +1,12 @@
 #include "main.h"
 
 /**
- * *_strcat - function that concatenates two strings
+ * *_strcat - function commute strings
  * @dest: pointer to a char
  * @src: pointer to a char
- * Return: return value of string dest
+ * Return: return value of dest
  */
+
 char *_strcat(char *dest, char *src)
 {
 	int a;
@@ -28,5 +29,3 @@ char *_strcat(char *dest, char *src)
 	dest[a] = '\0';
 	return (dest);
 }
-
-
