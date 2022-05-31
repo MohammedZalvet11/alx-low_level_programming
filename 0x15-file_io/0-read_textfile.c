@@ -3,6 +3,7 @@
 /**
  * read_textfile - reads a text file and prints the letters
  * @filename: numbers of letters printed.
+ * @letters: numbers of letters printed.
  *
  * Return: numbers of letters printed. It fails, returns 0.
  */
